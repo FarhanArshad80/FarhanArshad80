@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Farhan+Arshad;MERN+Stack+Developer;Full+Stack+Developer;JavaScript+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ## 💼 What I Can Do For You
@@ -35,43 +31,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,nextjs,tailwind,python,html,css,git,github,vercel,postman,figma" alt="Tech Stack">
-</p>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech | Live Demo |
-|---------|-------------|------|-----------|
-| 🛒 **Project One** | Full-featured e-commerce platform with cart, payments & admin dashboard | MERN, Stripe | [View →](#) |
-| 📊 **Project Two** | Real-time analytics dashboard with data visualization | React, Node, Charts | [View →](#) |
-| 💬 **Project Three** | Real-time chat application with rooms & notifications | Socket.io, MERN | [View →](#) |
-
-> 📌 Replace these with your 3 best real projects — clients decide within seconds based on your work!
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
