@@ -19,18 +19,18 @@
 ## 💼 What I Can Do For You
 
 - 🚀 **Full-Stack Web Applications** — From idea to deployment, complete MERN stack solutions
-- 🎨 **Responsive & Modern UI** — Pixel-perfect, mobile-first designs with React
+- 🎨 **Responsive & Modern UI** — Pixel-perfect, mobile-first designs with React & Tailwind CSS
 - ⚡ **REST APIs & Backend Systems** — Secure, scalable APIs with Node.js & Express
 - 🗄️ **Database Design** — Efficient MongoDB schemas built for performance
 - 🔐 **Authentication & Security** — JWT, OAuth, role-based access control
-- 🌐 **Deployment & Hosting** — Vercel, Netlify, Railway, VPS setup with CI/CD
+- 🌐 **Deployment & Hosting** — Vercel, Railway, VPS setup with CI/CD
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,nextjs,tailwind,python,html,css,git,github,vercel,postman,figma" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,nextjs,tailwind,python,git,github,vercel,postman" alt="Tech Stack">
 </p>
 
 ---
