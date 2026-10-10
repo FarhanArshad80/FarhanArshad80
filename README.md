@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <b>Hi, I'm Farhan Arshad! 👋</b><br>
-  <b>MERN Stack Developer</b> building scalable, performant, and full-stack web applications.<br>
-  Passionate about turning complex problems into clean, efficient code and seamless user experiences.
+  <b>Hi, I'm Farhan Arshad!</b><br>
+  <b>MERN Stack & Full-Stack Developer</b> building scalable, performant, and reliable web applications.<br>
+  Passionate about turning complex requirements into clean, efficient code and seamless user experiences.
 </p>
 
 <p align="center">
@@ -16,18 +16,20 @@
 
 ---
 
-## 💼 What I Can Do For You
+## About Me & What I Bring to the Table
 
-- 🚀 **Full-Stack Web Applications** — From idea to deployment, complete MERN stack solutions
-- 🎨 **Responsive & Modern UI** — Pixel-perfect, mobile-first designs with React & Tailwind CSS
-- ⚡ **REST APIs & Backend Systems** — Secure, scalable APIs with Node.js & Express
-- 🗄️ **Database Design** — Efficient MongoDB schemas built for performance
-- 🔐 **Authentication & Security** — JWT, OAuth, role-based access control
-- 🌐 **Deployment & Hosting** — Vercel, Railway, VPS setup with CI/CD
+I specialize in building production-ready, full-stack web applications with modern architecture, clean code practices, and smooth user interfaces.
+
+- **Full-Stack Application Development** — End-to-end web software engineering, converting concepts into production-grade systems using the MERN ecosystem.
+- **Responsive & Intuitive UI Engineering** — Crafting pixel-perfect, accessible, and fast client-side applications with React and Tailwind CSS.
+- **Robust Backend Architecture** — Designing RESTful APIs, modular server logic, and scalable backend workflows using Node.js and Express.
+- **Data Modeling & Optimization** — Structuring database schemas with MongoDB and Supabase, optimized for performance and query efficiency.
+- **Authentication & Application Security** — Implementing secure authorization workflows including JWT, OAuth, and Role-Based Access Control (RBAC).
+- **Deployment & Cloud Hosting** — Setting up seamless CI/CD pipelines, environment configurations, and deployment across Vercel, Railway, and VPS environments.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,nextjs,tailwind,python,git,github,vercel,postman" alt="Tech Stack">
@@ -35,16 +37,7 @@
 
 ---
 
-## 💡 Why Work With Me?
-
-- ✅ **Clean, Maintainable Code** — Code that your next developer will thank you for
-- ✅ **Clear Communication** — Regular updates, no surprises
-- ✅ **On-Time Delivery** — Deadlines are commitments, not suggestions
-- ✅ **Post-Delivery Support** — I don't disappear after launch
-
----
-
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhan-arshad-aa5991370/" target="_blank">
@@ -67,8 +60,8 @@
 ---
 
 <p align="center">
-  <b>💬 Have a project in mind? Let's build something amazing together!</b><br>
-  📧 <a href="mailto:farhanarshad15926@gmail.com">farhanarshad15926@gmail.com</a>
+  <b>Have a project in mind? Let's build something amazing together!</b><br>
+  <a href="mailto:farhanarshad15926@gmail.com">farhanarshad15926@gmail.com</a>
 </p>
 
 <p align="center">
