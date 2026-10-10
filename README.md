@@ -16,7 +16,7 @@
 
 ---
 
-## About Me & What I Bring to the Table
+## About Me 
 
 I specialize in building production-ready, full-stack web applications with modern architecture, clean code practices, and smooth user interfaces.
 
