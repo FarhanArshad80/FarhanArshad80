@@ -62,4 +62,6 @@ I specialize in building production-ready, full-stack web applications with mode
   <a href="mailto:farhanarshad15926@gmail.com">farhanarshad15926@gmail.com</a>
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer" alt="Footer Wave" />
+</p>
