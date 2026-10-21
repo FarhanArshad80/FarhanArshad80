@@ -2,7 +2,7 @@
   <img src="./Farhan-github-banner.png" alt="Farhan Arshad - Full-Stack Developer" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Farhan Arshad 👋</h1>
+<h1 align="center">Hi, I'm Farhan Arshad</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+%26+Full-Stack+Developer;I+build+scalable%2C+production-ready+web+apps;Open+to+freelance+%26+full-time+opportunities" alt="Typing SVG" />
@@ -12,24 +12,21 @@
   <a href="https://farhan-arshad-protoflio-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/farhan-arshad-aa5991370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:farhanarshad15926@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=00f7ff&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a full-stack developer who turns complex requirements into clean, fast, and reliable web applications. I care about readable code, solid architecture, and interfaces people enjoy using.
 
-- 🔭 Currently building: **[your current main project]**
-- 🌱 Currently learning: **[e.g. System Design, Docker, Next.js App Router, AWS]**
-- 💼 Available for: **freelance projects & full-time roles**
-- ⚡ I usually reply within **24 hours**
-- 💬 Ask me about: React, Node.js, MongoDB, REST APIs, authentication, deployment
+- Available for: freelance projects and full-time roles
+- Replies: usually within 24 hours
+- Ask me about: React, Node.js, MongoDB, REST APIs, authentication, and deployment
 
 ---
 
-## 🛠️ What I Can Build For You
+## What I Can Build For You
 
 | Service | What you get |
 |---|---|
@@ -42,7 +39,7 @@ I'm a full-stack developer who turns complex requirements into clean, fast, and 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -62,34 +59,7 @@ I'm a full-stack developer who turns complex requirements into clean, fast, and 
 
 ---
 
-## 📌 Featured Projects
-
-> Replace the placeholders below with your best 3–4 projects. Clients look at this section first.
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **[Project Name 1]** | One line on what it does and the problem it solves | React, Node.js, MongoDB | [Live](#) · [Code](#) |
-| **[Project Name 2]** | One line on what it does and the problem it solves | Next.js, Supabase, Tailwind | [Live](#) · [Code](#) |
-| **[Project Name 3]** | One line on what it does and the problem it solves | MERN, JWT, RBAC | [Live](#) · [Code](#) |
-
-> Tip: pin these same repositories on your profile, and give each repo a good README with screenshots.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🤝 Let's Work Together
+## Let's Work Together
 
 Have a project in mind, or need a developer for your team? I'd love to hear about it.
 
