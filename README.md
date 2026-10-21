@@ -1,74 +1,66 @@
-<p align="center">
-  <img src="./Farhan-github-banner.png" alt="Farhan Arshad - Full-Stack Developer" width="100%">
-</p>
-
-<h1 align="center">Hi, I'm Farhan Arshad</h1>
+# Farhan Arshad
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+%26+Full-Stack+Developer;I+build+scalable%2C+production-ready+web+apps;Open+to+freelance+%26+full-time+opportunities" alt="Typing SVG" />
+  <img src="./Farhan-github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://farhan-arshad-protoflio-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/farhan-arshad-aa5991370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:farhanarshad15926@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <b>Hi, I'm Farhan Arshad!</b><br>
+  <b>MERN Stack & Full-Stack Developer</b> building scalable, performant, and reliable web applications.<br>
+  Passionate about turning complex requirements into clean, efficient code and seamless user experiences.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Farhan+Arshad;Full+Stack+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
-## About Me
+## About Me 
 
-I'm a full-stack developer who turns complex requirements into clean, fast, and reliable web applications. I care about readable code, solid architecture, and interfaces people enjoy using.
+I specialize in building production-ready, full-stack web applications with modern architecture, clean code practices, and smooth user interfaces.
 
-- Available for: freelance projects and full-time roles
-- Replies: usually within 24 hours
-- Ask me about: React, Node.js, MongoDB, REST APIs, authentication, and deployment
-
----
-
-## What I Can Build For You
-
-| Service | What you get |
-|---|---|
-| **Full-Stack Web Apps** | End-to-end MERN applications, from idea to deployment |
-| **Responsive UI** | Fast, accessible interfaces with React and Tailwind CSS |
-| **REST APIs & Backend** | Modular Node.js/Express services, clean and well documented |
-| **Auth & Security** | JWT, OAuth, and role-based access control (RBAC) |
-| **Database Design** | Optimized MongoDB and Supabase schemas |
-| **Deployment** | CI/CD and hosting on Vercel, Railway, and VPS |
-
+**Full-Stack Application Development** — End-to-end web software engineering, converting concepts into production-grade systems using the MERN ecosystem.
+**Responsive & Intuitive UI Engineering** — Crafting pixel-perfect, accessible, and fast client-side applications with React and Tailwind CSS.
+**Robust Backend Architecture** — Designing RESTful APIs, modular server logic, and scalable backend workflows using Node.js and Express.
+**Data Modeling & Optimization** — Structuring database schemas with MongoDB and Supabase, optimized for performance and query efficiency.
+**Authentication & Application Security** — Implementing secure authorization workflows including JWT, OAuth, and Role-Based Access Control (RBAC).
+**Deployment & Cloud Hosting** — Setting up seamless CI/CD pipelines, environment configurations, and deployment across Vercel, Railway, and VPS environments.
 ---
 
 ## Tech Stack
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="Databases" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" alt="Tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,nextjs,tailwind,python,git,github,vercel,postman" alt="Tech Stack">
+</p>
 
 ---
 
-## Let's Work Together
-
-Have a project in mind, or need a developer for your team? I'd love to hear about it.
+## Connect With Me
 
 <p align="center">
-  <a href="mailto:farhanarshad15926@gmail.com"><b>farhanarshad15926@gmail.com</b></a>
-  &nbsp;|&nbsp;
-  <a href="https://farhan-arshad-protoflio-six.vercel.app/"><b>View my portfolio</b></a>
+  <a href="https://www.linkedin.com/in/farhan-arshad-aa5991370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:farhanarshad15926@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+   <a href="https://farhan-arshad-protoflio-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+
+  <p align="center">
+  <b>Have a project in mind? Let's build something amazing together!</b><br>
+  <a href="mailto:farhanarshad15926@gmail.com">farhanarshad15926@gmail.com</a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer" alt="Footer Wave" />
 </p>
+
+</p>
+
+---
+
