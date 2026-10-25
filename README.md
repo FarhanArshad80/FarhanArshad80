@@ -58,7 +58,10 @@ I specialize in building production-ready, full-stack web applications with mode
 </p>
 
 
- 
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer" alt="Footer Wave" />
+</p>
+
 
  
 </p>
