@@ -24,7 +24,6 @@ I specialize in building production-ready, full-stack web applications with mode
 - **Robust Backend Architecture** — Designing RESTful APIs, modular server logic, and scalable backend workflows using Node.js and Express.
 - **Data Modeling & Optimization** — Structuring database schemas with MongoDB and Supabase, optimized for performance and query efficiency.
 - **Authentication & Application Security** — Implementing secure authorization workflows including JWT, OAuth, and Role-Based Access Control (RBAC).
-- **Deployment & Cloud Hosting** — Setting up seamless CI/CD pipelines, environment configurations, and deployment across Vercel, Railway, and VPS environments.
 
 ---
 
